@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Cathrine Abu Elazam
 
-<!--
-**Cathrine-abu/Cathrine-abu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Bar-Ilan University (3 semesters left)  
+💡 Passionate about software development, teamwork, and problem-solving  
+🌐 Currently building an Email Client-Server system (Python & C++)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: C, C++, C#, Java, Python, SQL, Assembly
+- **Concepts**: Algorithms, Data Structures, OOP, Dynamic Memory, Game Development
+- **Tools**: IntelliJ, CLion, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- 🎮 **Arkanoid Game (Java)**: Classic arcade game with real-time physics and multithreading  
+- 👥 **Employee Management System (C)**: Console system for structured employee data  
+- 🧠 **Memory Card Game (C)**: Dynamic gameplay using pointers, structs, and arrays  
+- 📧 **Email System (Python & C++)**: Client-server app focusing on message management
+
+## 🌟 About Me
+- Ministry of Education Excellence Award  
+- Former Scout leader and event organizer  
+- Trilingual: Arabic (Native), Hebrew (Fluent), English (Fluent)
+
+## 📫 Contact
+- [LinkedIn] www.linkedin.com/in/cathrine-abu
+- 📧 Cathrine.abu.5@gmail.com
