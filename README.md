@@ -5,7 +5,7 @@
 🌐 Currently building an Email Client-Server system (Python & C++)
 
 ## 🛠 Skills
-- **Languages**: C, C++, C#, Java, Python, SQL, Assembly
+- **Languages**: C, C++, C#, Java, Python, SQL
 - **Concepts**: Algorithms, Data Structures, OOP, Dynamic Memory, Game Development
 - **Tools**: IntelliJ, CLion, Git, VS Code
 
