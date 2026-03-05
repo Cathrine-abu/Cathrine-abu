@@ -10,10 +10,11 @@
 - **Tools**: IntelliJ, CLion, Git, VS Code
 
 ## 💼 Projects
+- 📧 **Email System (Python & C++)**: Client-server app focusing on message management
 - 🎮 **Arkanoid Game (Java)**: Classic arcade game with real-time physics and multithreading  
 - 👥 **Employee Management System (C)**: Console system for structured employee data  
 - 🧠 **Memory Card Game (C)**: Dynamic gameplay using pointers, structs, and arrays  
-- 📧 **Email System (Python & C++)**: Client-server app focusing on message management
+
 
 ## 🌟 About Me
 - Ministry of Education Excellence Award  
