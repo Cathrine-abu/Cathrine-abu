@@ -2,7 +2,6 @@
 
 🎓 Computer Science student at Bar-Ilan University (3 semesters left)  
 💡 Passionate about software development, teamwork, and problem-solving  
-🌐 Currently building an Email Client-Server system (Python & C++)
 
 ## 🛠 Skills
 - **Languages**: C, C++, C#, Java, Python, SQL
