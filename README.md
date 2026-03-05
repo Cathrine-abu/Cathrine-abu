@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cathrine AbuElazam
 
-🎓 Computer Science student at Bar-Ilan University (3 semesters left)  
+🎓 Computer Science student at Bar-Ilan University
 💡 Passionate about software development, teamwork, and problem-solving  
 
 ## 🛠 Skills
